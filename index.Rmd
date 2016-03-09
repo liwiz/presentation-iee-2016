@@ -1,7 +1,7 @@
 ---
 title: "**Social Media for Radiology Education in Gross Anatomy**"
 subtitle: "<small>**Two Years of Experience**</small>"
-author: Liwei Jiang, B.A.<br>Christopher R. Bailey, M.D.<br>Krishna Juluru, M.D.<br>Donna Magid, M.D., M.Ed.<p>Johns Hopkins University School of Medicine</p>
+author: Liwei Jiang, B.A.<br>Christopher R. Bailey, M.D.<br>Krishna Juluru, M.D.<br>Donna Magid, M.D., M.Ed.<p><small>The Johns Hopkins University School of Medicine</small></p>
 date: March 11, 2016
 output: 
     revealjs::revealjs_presentation:
@@ -13,6 +13,7 @@ output:
         reveal_options:
             controls: false
             progress: false
+            margin: 0.05
 ---
 
 ## No relevant disclosures
@@ -26,26 +27,42 @@ After attending this presentation, the participant will
 
 ----
 
-![Facebook logo](img/facebook-logo.png) <!-- link directly to image on Web -->
-
-----
-
-![Representative News Feed screenshot](img/newsfeed.jpg) <!-- link directly to image on Web -->
-
-----
-
-![Taylor Swift's Facebook Page](img/ts-fb-page.png)
+![Facebook logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/1000px-Facebook_New_Logo_%282015%29.svg.png)
 
 <aside class="notes">
-    Facebook has transformed from predominantly peer-to-peer interaction to where organizations promote themselves via Pages. This pilot project exploits that phenomenon.
+Facebook needs no introduction.
 </aside>
 
 ----
 
-![Super network: one user reaches many](img/network.png) <!-- link directly to image on Web -->
+![Representative News Feed screenshot](http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2012/11/Snap-2012-11-02-at-13.31.23.jpeg)
 
 <aside class="notes">
-    Source: http://cdn3.computerhoy.com/sites/computerhoy.com/files/editores/user-20292/network-facebook.png
+It is where you and your Friends can comment on cat pictures and mourn the death of special cats.
+</aside>
+
+----
+
+![Mark Zuckerberg's Facebook Profile](http://blogs-images.forbes.com/oliverchiang/files/2010/12/newzuckprofile.jpg)
+
+<aside class="notes">
+As you know, each of you can have a personal profile, ...
+</aside>
+
+----
+
+![Taylor Swift's Facebook Page](img/ts-fb-page.png){height=650px}
+
+<aside class="notes">
+... but you may be less familiar with the concept of the Facebook Page (with a capital "P"), which is different from your regular Facebook Profile. Any organization or individual craving attention, in this case Taylor Swift but can also be any of you, can create a Facebook Page for the express purpose of self promotion. Other users don't "Friend" this organization or celebrity in the usual fashion; instead, they "Like" the Page to start receiving updates. So when Taylor Swift posts on her Facebook Page to say happy birthday to her friend, all of her 74 million Fans can potentially sing Happy Birthday along with Taylor. By the way, in Facebook parlance, a "Fan" is a user who has "Liked" a Page. And speaking of the number of Fans, when you run a Page you can see detailed metrics such as how many people saw the post, how many people clicked on it, and so forth.
+</aside>
+
+----
+
+![Super network: one user reaches many](http://cdn3.computerhoy.com/sites/computerhoy.com/files/editores/user-20292/network-facebook.png)
+
+<aside class="notes">
+What all this means is that a Facebook Page has the power to reach hundreds, thousands, or millions of people at once, and this reach is *measurable*. This is the kind of power we want to harness for education---in our case, the education of anatomy and radiology.
 </aside>
 
 ## Anatomy + Radiology
@@ -54,66 +71,82 @@ After attending this presentation, the participant will
 
 . . . 
 
-Radiology: the way most clinicians see anatomy
+<span style="font-size: 125%;">Radiology: the way most clinicians see anatomy</span>
 
 <aside class="notes">
-    Introductory Radiology is taught concurrently with Gross Anatomy at many medical schools. Opportunities exist to strength the integration of Radiology and Gross Anatomy to solidify cross-modality anatomic relationships, present clinical relevance, and foster early interest in the field of radiology.
+Gross Anatomy and Introductory Radiology are taught concurrently at many medical schools. If done well, anatomy-radiology integration fosters multi-modality learning, highlights clinical relevance, and may promote an early interest in the field of radiology. It is also important to remember that, aside from surgeons and pathologists, most physicians see anatomy through the perspective of radiology.
 </aside>
 
 ----
 
-![Johns Hopkins anatomy lab](img/anatomy-lab.jpg) <!-- link directly to image on Web -->
+![Johns Hopkins anatomy lab](http://www.hopkinsmedicine.org/Press_releases/2009/images/090707-03.jpg)
 
 <aside class="notes">
-Source: http://jennyschannel.blogspot.com/2012/09/armstrong-medical-education-building.html
+Here at Hopkins, we have fancy computers in our anatomy lab, but they are rarely used to study radiographic images during dissections.
 </aside>
 
 ----
 
 ![TeamRads home page](img/teamrads-home.png)
 
-----
-
-![MIRC cases list](img/mirc-menu.png)
-
 <aside class="notes">
-    MIRC TFS is the backend software for most of the cases hosted on TeamRads.com. There are many cases created in MIRC TFS but not directly accessible on TeamRads.com.
+Instead, the learning of radiology occurs during radiology lectures and even more so at home. For homework, students are instructed to go to TeamRads.com, our online radiology education resource, ...
 </aside>
 
 ----
 
-![MIRC case example](img/mirc-case.png)
+![Anatomy Tutor on TeamRads.com](img/teamrads-thorax-tutors.png)
+
+<aside class="notes">
+...and work through some of the Tutors and Quizzes. TeamRads is a nice resource, but this whole process is far from ideal.
+</aside>
 
 ----
 
-## Current Drawbacks
+## <span style="color: red;">Pull</span> Learning: <br><small>Significant Effort Required</small>
 
-**<span style="color: red;">Pull</span> learning**: significant effort required
+TeamRads.com: separate, non-integrated site
 
-- Separate, non-integrated site
-    * "Yet another system"
-    * Homework: "Go to Section X, view Case Y..."
-- *Ad hoc* pacing during self study
-- Regular, spaced repetition lacking
+- "Yet another system"
+- "Go to Section X, click on Case Y..."
+- Challenge to attention span and willpower
+
+. . . 
+
+Need to **invert** the flow of educational resources
 
 <aside class="notes">
-    TeamRads.com is not integrated into where anatomy materials are hosted (i.e. Blackboard). To my knowledge, there are no clickable links in electronic Anatomy course materials that allow the student to jump directly to relevant imaging material.
-    
-    Interestingly, an email-based system has been discussed in the past to promote spaced repetition. Given the widespread hatred for email, however, another solution would be ideal.
+We are making students engage in what I call "pull learning," where they have to expend significant effort to bring learning material to the front of their consciousness.
+
+Technology often doesn't make it easier. Students complain about Blackboard because it takes way too many clicks to log into JHED, launch Blackboard, find the course link, click "Course Materials," open several layers of folders, download the slides, and then open the file. It's insanity; I'd rather have a single binder in front of me.
+
+TeamRads.com, while better organized, contributes to the same problem. It's yet another system to click through when students are told to go to Section X, click on Case Y. It's not as easy as a Google search. As one of the Webmasters of TeamRads.com, *I* dread it when I have to go on there to find something specific. (Sorry, Donna, but it's true.)
+
+We need to change the learning paradigm. We need to invert the flow of educational resources.
+</aside>
+
+## <span style="color: red;">Push</span> Learning
+
+<aside class="notes">
+We need to create "push learning."
 </aside>
 
 ## Goals
 
-Deliver daily imaging cases *in step* with anatomy curriculum
+<span style="color: red;">**Push**</span> daily imaging cases *in step* with anatomy curriculum, directly to the hands of students
 
-- Reinforce high-yield anatomic relationships
-- Reinforce key concepts in image interpretation
-- **<span style="color: red;">Push</span> learning** to everywhere
+- Learning on multiple devices
     * Phone
     * Tablet
     * Computer
-- Deliver content automatically
-- Generate and measure student engagement
+- Reinforce high-yield anatomic relationships
+- Reinforce key concepts in image interpretation
+- Author once, deliver automatically
+- Foster and measure student engagement
+
+<aside class="notes">
+Specifically, our goal with this project is to [slide contents]
+</aside>
 
 ## Target Demographic
 
@@ -134,23 +167,26 @@ Opt-in participation
 
 . . .
 
-![Facebook "Like"" symbol](img/like.png) <!-- link directly to image on Web -->
+![Facebook "Like"" symbol](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bot%C3%B3n_Me_gusta.svg/200px-Bot%C3%B3n_Me_gusta.svg.png)
 
 <aside class="notes">
-    A public Facebook Page was created and promoted to the target demographic. Participants "Liked" (tracked) the Facebook Page, which enabled them to receive mobile and Web push notifications each time a new case was posted.
-    In Facebook parlance, a "fan" is a user who has "Liked" a Page.
+We created a Facebook Page, *JH Team Rads*, and we encouraged our target demographic to "Like" the Page.
 </aside>
 
 ----
 
 ![Notification with new content](img/notification.png)
 
+<aside class="notes">
+You know what happens after that: whenever we post an imaging case, our Fans receive a push notification on their phones, tablets, and computers the instant it happens.
+</aside>
+
 ----
 
-![Buffer logo](img/buffer.png) <!-- link directly to image on Web -->
+![Buffer logo](https://cdn.searchenginejournal.com/wp-content/uploads/2013/12/buffer-text-1024-white-bg.jpg)
 
 <aside class="notes">
-    Having created a Facebook Page is well and good, but it would be a pain to post stuff to the Page manually every day. Unlike Taylor Swift, who may find the occasion to live-Tweet (or live-Facebook) "I had an amazing lunch today," our content is pre-planned, not composed live. That's where Buffer comes in.
+Now, Buffer is the linchpin in all this.
 </aside>
 
 ----
@@ -158,7 +194,7 @@ Opt-in participation
 ![Buffer integrations](img/buffer-integrations.png)
 
 <aside class="notes">
-    Buffer is a Web tool that interfaces with social media accounts. One useful function is to post to multiple social networks at once, which at the present is not necessary but may become useful in the future.
+Buffer is a Web application that manages social media accounts. One useful function is to post to multiple social networks at once, which at the moment we are just posting to Facebook.
 </aside>
 
 ----
@@ -166,17 +202,17 @@ Opt-in participation
 ![Buffer post scheduling screenshot](img/buffer-schedule.png)
 
 <aside class="notes">
-    Another function of Buffer that we find much more useful is the ability to write a bunch of posts ahead of time, save them into a queue, and then set exactly when and how often the posts will be released onto Facebook (or all the other social networks). 
+But what we find extremely useful is the ability to write a bunch of posts ahead of time, save them into a queue, and then set the exact schedule by which posts will be released onto Facebook.
 </aside>
 
 ----
 
-![Case workflow through Buffer](img/buffer-workflow.png){width=75%}
+![Case workflow through Buffer](img/buffer-workflow.png){height=550px}
 
 All cases are carefully de-identified
 
 <aside class="notes">
-    Here is the workflow. We put together a series of imaging cases that fit well with the anatomy curriculum. We stored the cases in the correct order in Buffer, and we set Buffer to post the cases to our Facebook Page every weekday.
+So here is our workflow. We put together a series of imaging cases that correlate well with each day of the anatomy curriculum. We stored the cases in the correct order in Buffer, and we set Buffer to post the cases to our Facebook Page every weekday. Then each day all of our Fans get a push notification, and they go to town on that case.
 </aside>
 
 ## Structural Limitations
@@ -186,55 +222,65 @@ All cases are carefully de-identified
 - Facebook Page is public; anyone could
     * "Like" the Page
     * View the questions
-    * Be tracked by Facebook’s analytics
+    * Be tracked by Facebook’s metrics
 
 <aside class="notes">
-    Facebook users not enrolled in Johns Hopkins Human Anatomy and participants in 2014 who "self-participated" in 2015 could not be reliably excluded. Creating a new Page every year is an option, but manual labor is increased.
+Let me tell you up front that there are some limitations inherent to this appraoch. Not everyone uses Facebook. We did run the study twice, in 2014 and again in 2015, and we found in 2015 that there was no easy way to just boot everybody from 2014 off to start over. If you think about it, Facebook is probably more concerned about you getting more Fans as opposed to you controlling who exactly your Fans are. So if people from 2014 somehow decide to participate again, then they'll be counted in the metrics as well. In the same fashion, because a Facebook Page is public, anyone outside our target demographic could become a Fan and participate. They'll be counted in the metrics, too.
 </aside>
 
 ----
 
-![Facebook Fan demographics screenshot](img/demographics.png)
+![Facebook Fan demographics screenshot](img/demographics.png){height=650px}
 
 <aside class="notes">
-    Note that number of participants exceeds class size, and several participants are not from Baltimore.
+In fact, to give you example of this phenomenon, here are some demographics data from 2014. Note that we have a number of people clearly not from Baltimore or even from the United States.
 </aside>
 
 ----
 
-![](fig/metrics-views14.png)
+![](fig/metrics-views14.png){height=650px}
 
 <aside class="notes">
-    It becomes immediately apparently that on some days there are many more Page views from unique users than the number of fans we have. This is due to Facebook's algorithm of maximizing the Page's exposure. 
-    All measures are "unique users."
+Here are some metrics we actually got. [Explain legend.] Note that the count is unique users, so if someone views the Page multiple times it only gets counted once. It is immediately apparent that on some days we have many more Page views than the number of Fans. We think this is due to Facebook's algorithm of maximizing the Page's exposure, where Facebook users who are not our Fans or who are Friends of our Fans are also shown our posts.
 </aside>
 
 ----
 
-![](fig/metrics-clicks14.png)
-
-----
-
-![](fig/metrics-clicks-pct14.png)
-
-----
-
-![](fig/metrics-views15.png)
-
-----
-
-![](fig/metrics-clicks15.png)
-
-----
-
-![](fig/metrics-clicks-pct15.png)
-
-----
-
-![](fig/feedback-pct.png)
+![](fig/metrics-clicks14.png){height=650px}
 
 <aside class="notes">
-    >70% of responders each year agreed that the cases were relevant, interesting, enhanced one’s understanding of anatomy material, and increased one’s appreciation for imaging as a diagnostic tool. The only exception was whether the cases increased one's desire to explore radiology as a practice. I would not expect to convince students that easily!
+It is also interesting to see that despite all the views only a small percentage of people actually clicked on the links to the imaging cases.
+</aside>
+
+----
+
+![](fig/metrics-clicks-pct14.png){height=650px}
+
+<aside class="notes">
+Here is the specific plot that shows link clicks as a percentage of Page views in 2014.
+</aside>
+
+----
+
+![](fig/metrics-views15.png){height=650px}
+
+<aside class="notes">
+Here is our 2015 data. Same basic patterns.
+</aside>
+----
+
+![](fig/metrics-clicks15.png){height=650px}
+
+----
+
+![](fig/metrics-clicks-pct15.png){height=650px}
+
+----
+
+![](fig/feedback-pct.png){height=650px}
+
+<aside class="notes">
+When we asked our target demographic each year what they thought of this project, more than 70% of responders each year agreed that the cases were [walk through figures]. The only exception was whether the cases increased one's desire to explore radiology as a field practice. We got lower numbers there, and I would not expect to convince students that easily.
 </aside>
 
 ## Limitations
@@ -264,6 +310,7 @@ All cases are carefully de-identified
     * "Tighter" metrics
     * Creation of closed group may conflict with openness
 - **Quality**: Continue to improve and add imaging cases
+- **Connection**: Link cases to related cases or tutorials
 - **Responsibility**: Incorporate testing to assess educational impact
 
 <aside class="notes">
