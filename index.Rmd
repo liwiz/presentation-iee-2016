@@ -13,6 +13,7 @@ output:
         reveal_options:
             controls: false
             progress: false
+            history: true
             margin: 0.05
 ---
 
@@ -22,8 +23,12 @@ output:
 
 After attending this presentation, the participant will
 
-- Appreciate the potential of social media tools in delivering content to learners
-- Recognize the capabilities and limitations of social media metrics in data analysis
+- Appreciate the **potential** of social media tools in delivering content to learners
+- Recognize the capabilities and **limitations** of social media metrics in data analysis
+
+<aside class="notes">
+I hope you will appreciate the potential and limitations of social media in education.
+</aside>
 
 ----
 
@@ -38,7 +43,7 @@ Facebook needs no introduction.
 ![Representative News Feed screenshot](http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2012/11/Snap-2012-11-02-at-13.31.23.jpeg)
 
 <aside class="notes">
-It is where you and your Friends can comment on cat pictures and mourn the death of certain inspirational cats.
+It is *the* place to post cat pictures, comment on cat pictures, and mourn the death of cats ... with pictures.
 </aside>
 
 ----
@@ -54,7 +59,7 @@ You know that each person can create a personal profile, ...
 ![Taylor Swift's Facebook Page](img/ts-fb-page.png){height=650px}
 
 <aside class="notes">
-... but you may be less familiar with the concept of the Facebook Page (with a capital "P"), which is different from your regular Facebook Profile. Basically, any organization or individual craving attention, in this case Taylor Swift, can create a Facebook Page for the express purpose of self promotion. Other users don't "Friend" this organization or person; instead, they "Like" the Page to start receiving updates. (In Facebook parlance, a "Fan" is a user who has "Liked" a Page.) So when Taylor Swift says happy birthday to her friend, all of her 74 million Fans can see this. Speaking of 74 million Fans, when you run a Page you can see detailed metrics such as how many people saw the post, how many people clicked on it, and so forth.
+... but you may be less familiar with the concept of the Facebook Page (with a capital "P"), which is different from your regular Facebook Profile. Basically, any organization or individual craving attention can create a Facebook Page for the express purpose of self promotion. Other users can then "Like" the Page to start receiving updates. So when Taylor Swift says happy birthday to her friend, all of her 74 million Fans will this. (By the way, in Facebook lingo, Fans are those who have Liked a Page.) Speaking of 74 million Fans, when you run a Page you get detailed metrics such as how many people saw a post and how many people clicked on it.
 </aside>
 
 ----
@@ -62,7 +67,7 @@ You know that each person can create a personal profile, ...
 ![Facebook Page: reach millions at once](http://cdn3.computerhoy.com/sites/computerhoy.com/files/editores/user-20292/network-facebook.png)
 
 <aside class="notes">
-What all this means is that a Facebook Page has the power to reach hundreds, thousands, or millions of people at once, and this reach is *measurable*. This is the kind of power we want to harness for education---in our case, the education of anatomy and radiology.
+What all this means is that a Facebook Page has the power to reach hundreds, thousands, or millions of people at once, and this reach is *measurable*. This is the kind of power we want to harness for education---specifically, the education of anatomy and radiology.
 </aside>
 
 ## Anatomy + Radiology
@@ -74,7 +79,7 @@ What all this means is that a Facebook Page has the power to reach hundreds, tho
 <span style="font-size: 125%;">Radiology: the way most physicians see anatomy</span>
 
 <aside class="notes">
-Anatomy-radiology correlation is frequently discussed, and it makes sense. It fosters multi-modality learning, highlights clinical relevance, and may possibly promote an early interest in radiology. It is also important to remember that, aside from surgeons and pathologists, most physicians see anatomy through the perspective of radiology.
+Anatomy-radiology integration is frequently discussed, and it makes sense from the perspective of multi-modality learning and clinical thinking. Radiology is how most physicians see anatomy, unless they are surgeons or pathologists.
 </aside>
 
 ----
@@ -82,7 +87,7 @@ Anatomy-radiology correlation is frequently discussed, and it makes sense. It fo
 ![Johns Hopkins anatomy lab](http://www.hopkinsmedicine.org/Press_releases/2009/images/090707-03.jpg)
 
 <aside class="notes">
-Here at Hopkins, we have fancy computers in our anatomy lab, but they are rarely used to study radiographic images during dissections.
+Here at Hopkins, despite having fancy computers in our anatomy lab, ...
 </aside>
 
 ----
@@ -90,7 +95,7 @@ Here at Hopkins, we have fancy computers in our anatomy lab, but they are rarely
 ![TeamRads home page](img/teamrads-home.png)
 
 <aside class="notes">
-Instead, the learning of radiology occurs during radiology lectures but mostly home. For homework, students are instructed to go to TeamRads, our radiology education resource, ...
+most radiology learning occurs during dedicated lectures and at home. For homework, students are instructed to go to TeamRads, our online radiology education resource, ...
 </aside>
 
 ----
@@ -98,7 +103,7 @@ Instead, the learning of radiology occurs during radiology lectures but mostly h
 ![Anatomy Tutor on TeamRads.com](img/teamrads-thorax-tutors.png)
 
 <aside class="notes">
-...and work through some of the Tutors and Quizzes. I must say that although TeamRads is a nice resource, this whole process is far from ideal.
+...and work through these Tutors and Quizzes. Although TeamRads is a nice resource, this whole process is far from ideal.
 </aside>
 
 ----
@@ -116,13 +121,13 @@ TeamRads: separate, non-integrated site
 Need to **invert** the flow of educational resources
 
 <aside class="notes">
-We are making students engage in what I call "pull learning," where they have to spend significant effort to bring learning materials to the front of their consciousness.
+We are making students engage in what I call "pull learning," where significant effort is required to see the learning material.
 
-Technology often doesn't make it easier. Students complain about Blackboard because it takes way too many clicks to log into JHED, launch Blackboard, find the course link, click "Course Materials," open several layers of folders, download the file, and then open the file. It's insanity; I'd rather have a single binder in front of me.
+Technology makes it worse. Students complain about Blackboard because it takes way too many clicks to log into JHED, launch Blackboard, find the course link, click "Course Materials," open several layers of folders, download the file, and then open the file. It's insanity.
 
-TeamRads contributes to the same problem. It's yet another system to click through when students are told to go to Section X, click on Case Y. It's not as easy as a Google search, and the content can't be downloaded. As one of the Webmasters of TeamRads, *I* dread it when I have to go on TeamRads to find something specific.
+TeamRads contributes to the same problem. It's yet another system to click through when students are told to go to Section X, click on Case Y. The content can't be downloaded. Even *I*, one of the Webmasters of TeamRads, dread it when I have to go on TeamRads to find something specific.
 
-We need to change the learning paradigm. We need to invert the flow of educational resources.
+Clearly, we need to change the learning paradigm. We need to invert the flow of educational resources.
 </aside>
 
 ## <span style="color: red;">Push</span> Learning
@@ -135,14 +140,13 @@ We need to create "push learning."
 
 <span style="color: red;">**Push**</span> daily imaging cases *in step* with anatomy curriculum, directly into the hands of students
 
-- Learning on multiple devices
+- Drive learning on *all* devices
     * Computer
     * Phone
     * Tablet
-- Reinforce high-yield anatomic relationships
-- Reinforce key concepts in image interpretation
-- Set up once, deliver automatically
+- Reinforce both anatomy and radiology
 - Foster and measure student engagement
+- Set up once, run automatically
 
 <aside class="notes">
 Specifically, with this project, we want to [slide contents]
@@ -150,16 +154,19 @@ Specifically, with this project, we want to [slide contents]
 
 ## Target Demographic
 
-Students in JHUSOM Human Anatomy course,    
-2014 and 2015
+Students in JHUSOM Human Anatomy course:
 
 - Medical
 - Biomedical Engineering
 - Medical & Biological Illustration
 
-*N* ≈ 140 each year
+*N* ≈ 140 each year, voluntary participation
 
-Opt-in participation
+Project done twice, 2014 and 2015
+
+<aside class="notes">
+Obviously, we are targeting students in the anatomy class. Participation is voluntary. Of note, we ran the project twice, in 2014 and in 2015.
+</aside>
 
 ----
 
@@ -170,7 +177,7 @@ Opt-in participation
 ![Facebook "Like"" symbol](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bot%C3%B3n_Me_gusta.svg/200px-Bot%C3%B3n_Me_gusta.svg.png)
 
 <aside class="notes">
-We created a Facebook Page, *JH Team Rads*, and we encouraged our target demographic to "Like" the Page.
+We created a Facebook Page, *JH Team Rads*, and encouraged students to "Like" the Page, ...
 </aside>
 
 ----
@@ -178,7 +185,7 @@ We created a Facebook Page, *JH Team Rads*, and we encouraged our target demogra
 ![Notification with new content](img/notification.png)
 
 <aside class="notes">
-You know what happens after that: whenever we post an imaging case, our Fans receive a push notification on their phones, tablets, and computers the instant it happens.
+... meaning that whenever we post something, our Fans would instantly receive a push notification on their computers, phones, and tablets.
 </aside>
 
 ----
@@ -194,7 +201,7 @@ Now, Buffer is the linchpin in all this.
 ![Buffer integrations](img/buffer-integrations.png)
 
 <aside class="notes">
-Buffer is a Web application that manages social media accounts. One function is to post to multiple social networks at once, which at the moment we are just posting to Facebook.
+Buffer is a free Web application that manages multiple social media accounts. Although we are just posting to Facebook, ...
 </aside>
 
 ----
@@ -202,7 +209,7 @@ Buffer is a Web application that manages social media accounts. One function is 
 ![Buffer post scheduling screenshot](img/buffer-schedule.png)
 
 <aside class="notes">
-But what we find extremely useful is the ability to write a bunch of posts ahead of time, save them into a queue, and then set the exact schedule by which these posts go live.
+... what is extremely useful is the ability to write a bunch of posts ahead of time, save them into a queue, and then set the exact schedule by which these posts go live. That's the reason the tool is called Buffer.
 </aside>
 
 ----
@@ -212,7 +219,7 @@ But what we find extremely useful is the ability to write a bunch of posts ahead
 All cases are carefully de-identified
 
 <aside class="notes">
-So here is our workflow. We put together a series of imaging cases that correlate well with the day-by-day anatomy curriculum. We stored the cases in the correct order in Buffer, and we set Buffer to post the cases to our Facebook Page every weekday.
+Here is our workflow. We put together a series of imaging cases closely correlated with the day-to-day anatomy curriculum. We save the cases to Buffer and set Buffer to post these cases to our Facebook Page every weekday.
 </aside>
 
 ## Structural Limitations
@@ -220,10 +227,10 @@ So here is our workflow. We put together a series of imaging cases that correlat
 - Not everyone uses Facebook
 - Previous year's participants not excluded
 - Facebook Page is public; anyone could participate
-- Facebook's metrics track extra participants
+- Extra participants counted in Facebook's metrics
 
 <aside class="notes">
-Let me be up front with the limitations inherent to this approach. Not everyone uses Facebook; some prefers not to at certain times. When we ran the project again in 2015, we found that there was no easy way to just boot off everybody from 2014 and start over. I imagine that Facebook is more concerned with you getting more Fans as opposed to you controlling exactly who your Fans are. In the same fashion, because a Facebook Page is public, anyone outside our target demographic could become a Fan and participate. All these "extra people" are counted in Facebook's metrics, giving us a flawed sense of actual engagement.
+Let me be up front with the limitations inherent to this approach. Not everyone uses Facebook. When we ran the project again in 2015, we found that there was no easy way to just boot off everybody from 2014 and start over. I imagine that Facebook is more concerned with you getting more Fans as opposed to you controlling exactly who your Fans are. In the same fashion, because a Facebook Page is public, anyone outside our target demographic could become a Fan and participate. All these "extra people" are counted in Facebook's metrics, giving us an inflated sense of actual engagement.
 </aside>
 
 ----
@@ -231,7 +238,7 @@ Let me be up front with the limitations inherent to this approach. Not everyone 
 ![Facebook Fan demographics screenshot](img/demographics.png){height=650px}
 
 <aside class="notes">
-In fact, here are the demographics data of our Fans from 2014. Note that we have a number of people clearly not from Baltimore or even from the United States.
+To illustrate, on the demographics data of our Fans from 2014, you can see that we have a number of people clearly not from Baltimore or even from the United States.
 </aside>
 
 ----
@@ -239,7 +246,7 @@ In fact, here are the demographics data of our Fans from 2014. Note that we have
 ![](fig/metrics-views14.png){height=650px}
 
 <aside class="notes">
-Now, let me show you some hard data. Here are the number of Fans we had and the number of views we got for each day we posted a case. [Explain legend.] Note that the y-axis is unique users, so if someone views the Page multiple times it only gets counted once. It is quite apparent that on some days we have many more Page views from unique users than the actual number of Fans. We think this is due to Facebook trying to maximize the Page's exposure, where Facebook users who are not our Fans (but maybe who are Friends of our Fans) are also shown our posts.
+Anyway, here are the actual usage data. Shown here are the number of Fans we had (total and online) and the number of views we got for each day that we posted a case in 2014. The y-axis is unique users to avoid multiple counting. Note that on some days we had more views from unique users than the actual number of Fans. It's a bit of an unexpected finding. We think that Facebook shows our Page to those who are not our Fans to maximize our exposure and attract more fans. That kind of algorithm is good for Taylor Swift but maybe not so good for our purposes.
 </aside>
 
 ----
@@ -247,15 +254,7 @@ Now, let me show you some hard data. Here are the number of Fans we had and the 
 ![](fig/metrics-clicks14.png){height=650px}
 
 <aside class="notes">
-It is also interesting to see that, despite all the views we got, only a small percentage of people actually clicked on the links to the imaging cases.
-</aside>
-
-----
-
-![](fig/metrics-clicks-pct14.png){height=650px}
-
-<aside class="notes">
-Here is the plot that shows link clicks as a percentage of Page views in 2014.
+It is also interesting to see that, despite all those views, only a small percentage of people (around 10% of views) actually clicked on the links to the imaging cases.
 </aside>
 
 ----
@@ -263,8 +262,9 @@ Here is the plot that shows link clicks as a percentage of Page views in 2014.
 ![](fig/metrics-views15.png){height=650px}
 
 <aside class="notes">
-Here is our 2015 data. We see the same basic patterns, except that there are a lot more Fans than views this time. Perhaps most of the people from 2014 are ignoring us.
+Here is our 2015 data. Same basic patterns, except a lot more Fans than views this time. Perhaps most of the people from 2014 are ignoring us.
 </aside>
+
 ----
 
 ![](fig/metrics-clicks15.png){height=650px}
@@ -275,18 +275,10 @@ Again, a lot of views but not a lot of link clicks.
 
 ----
 
-![](fig/metrics-clicks-pct15.png){height=650px}
-
-<aside class="notes">
-Link click percentages are shown here.
-</aside>
-
-----
-
 ![](fig/feedback-pct.png){height=650px}
 
 <aside class="notes">
-When we asked our students, those within our target demographic, each year what they thought of this project, more than 70% of responders each year agreed that the cases increased their understanding of anatomy and increased their appreciation of imaging as a diagnostic tool. They also agreed that the cases were interesting, the user interface was intuitive, and that the material chosen was relevant. Responses were mixed as to whether cases increased the desire to explore radiology as a career. I did not expect to convince students that easily, anyway.
+At the end of each year, when we asked those in our target demographic what they thought of this project, more than 70% of responders each year agreed that the cases increased their understanding of anatomy and increased their appreciation of imaging as a diagnostic tool. They also agreed that the cases were interesting, the user interface was intuitive, and that the material chosen was relevant. Responses were mixed as to whether cases increased the desire to explore radiology as a career. I did not expect to convert students that easily to radiology.
 </aside>
 
 ## Limitations
@@ -295,46 +287,45 @@ When we asked our students, those within our target demographic, each year what 
 - Not everyone uses Facebook
 - Previous year's participants not excluded
 - Facebook Page is public; anyone could participate
-- Facebook's metrics track extra participants
+- Extra participants counted in Facebook's metrics
 </div>
 
 . . .
 
-- Facebook algorithm may limit *and* broaden audience of content
-    * Neither desirable in controlled environment
-- Participants free to ignore content being delivered
+- Facebook's algorithm may *broaden* content's visibility
+    * Possibly undesirable in controlled environment
+- Participants free to ignore content pushed
 - Currently unable to directly assess learning enhancement
     
 ## Future Directions
 
-- **Reach**: Find additional mechanisms of case delivery
-    * Other social networks
-    * Non - social media channels
-- **Control**: Consider limiting content accessibility strictly to target demographic
-    * "Tighter" metrics
-    * Creation of closed group may conflict with openness
-- **Quality**: Continue to improve and add imaging cases
-- **Connection**: Link cases to related cases or tutorials
-- **Responsibility**: Incorporate testing to assess educational impact
+- **Reach**: Find additional avenues of content delivery
+- **Control**: Consider limiting content to target demographic
+    * Closed group may conflict with openness philosophy
+- **Quality**: Improve imaging cases
+- **Responsibility**: Incorporate testing to assess impact
+
+<aside class="notes">
+Future directions: basically increase reach, control, quality, and responsibility -- all those buzzwords.
+</aside>
 
 ## Conclusions
 
-- Facebook and Buffer: powerful, information-rich, and synergistic tools
-    * **<span style="color: red;">Push</span> learning** integrated with daily habits
-    * Simplified administration with scheduled posts
-    * Highly revealing participation metrics
-    * *Caution: content reach may not be what is intended*
+Facebook and Buffer
 
-. . .
+- **Powerful**: <span style="color: red;">Push</span> learning with broad reach
+- **Information-rich**: Highly revealing metrics
+- **Natural** for users: Fits habits of Digital Natives
+- **Simple** for administrators: Set up once, run repeatedly
 
-- Well received by students
-    * Interesting, relevant cases
-    * Greater understanding of both anatomy and radiology
-    * Increased appreciation of imaging
 
-. . .
+Well received by students
 
 Widely applicable to other educational scenarios
+
+<aside class="notes">
+As for our conclusions, more buzzwords. The Facebook and Buffer technique is powerful, information-rich, natural for users, and simple for administrators. It is well received by students and widely applicable to other educational scenarios.
+</aside>
 
 ## Acknowledgments
 
