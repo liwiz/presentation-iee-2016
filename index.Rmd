@@ -8,12 +8,10 @@ output:
         center: true
         css: no-img-border.css
         fig_caption: false
-        self_contained: false
         transition: none
         reveal_options:
             controls: false
             progress: false
-            history: true
             margin: 0.05
 ---
 
